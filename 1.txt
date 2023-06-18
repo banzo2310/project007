@@ -1,5 +1,3 @@
 <<<<<<< HEAD
 first 
 second
-=======
->>>>>>> parent of 2afd5dc (first revision)
